@@ -28,7 +28,7 @@ function increaseRankBy(n){
     festree[i].innerHTML = parseInt(festree[i].innerHTML) + n;
  }
  
- return festree
+ return festree;
   
 }
 
